@@ -13,7 +13,7 @@ statistics
 requests
 rlp>=0.4.4
 #devp2p>=0.8.0
-git+https://github.com/emum8/pydevp2p.git
+-e git://github.com/emum8/pydevp2p.git
 ethereum>=1.5.1
 pbkdf2
 scrypt
